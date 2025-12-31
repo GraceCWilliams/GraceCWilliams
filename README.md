@@ -15,9 +15,9 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, R, C++, Java, SQL, HTML/CSS, Racket, Prolog
-**Tools & Technologies:** Git/GitHub, Jupyter, Excel, Pandas, NumPy, scikit-learn
-**Concepts:** Data analysis, machine learning, statistical modeling, data visualization, algorithms & data structures
+**Languages:** Python, R, C++, Java, Javascript, SQL, HTML/CSS, Racket, Prolog
+**Tools & Technologies:** Git/GitHub, Pandas, NumPy, scikit-learn, Google Colab, Jupyter, Excel, 
+**Concepts:** Machine Learning, Statistics, Data Cleaning + Visualization, Algorithms & Data Structures
 
 ---
 
@@ -29,7 +29,7 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 * Reduced analysis time and improved cross-team communication
 * Worked with real-world financial and operational data
 
-### **Data Analytics Intern – University of Louisville (EAT Lab)**
+### **Data Science Intern – University of Louisville (EAT Lab)**
 
 * Led technical data efforts for large-scale clinical datasets
 * Conducted statistical analysis and data cleaning in R
@@ -40,7 +40,7 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 * Worked on robotics and simulation projects using Java
 * Contributed to research-driven software development
 
-### **Founder – Making Engineers**
+### **Nonprofit Founder – Making Engineers**
 
 * Founded a nonprofit introducing engineering to underrepresented middle school girls
 * Partnered with the National Academy of Engineering
