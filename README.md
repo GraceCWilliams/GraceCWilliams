@@ -15,7 +15,7 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 
 ## 🛠 Technical Skills
 
-**Programming & Scripting:** Python (Pandas, NumPy, scikit-learn), R (tidyverse), C++, Java, JavaScript, SQL, HTML/CSS, Racket, Prolog  
+**Programming & Coding:** Python (Pandas, NumPy, scikit-learn), R (tidyverse), C++, Java, JavaScript, SQL, HTML/CSS, Racket, Prolog  
 
 **AI & Machine Learning:** Supervised learning, predictive modeling, feature engineering, model evaluation, applied machine learning with scikit-learn  
 
