@@ -8,7 +8,7 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 
 * 🎓 **B.S. in Computer Science & Mathematics**, Minor in Data Science (Expected May 2027)
 * 💡 Interested in **data science, software engineering, machine learning, and applied research**
-* 🧠 Especially drawn to projects with applications in **health, psychology, and social impact**
+* 🧠 Especially drawn to projects with applications in **health, finance, and social impact**
 * 🤝 Passionate about community-building and expanding access to STEM
 
 ---
