@@ -68,17 +68,18 @@ Each repository includes its own README with project-specific details.
 
 ## 🌱 Currently Learning
 
-* Advanced data structures and algorithms in C++
-* Randomized algorithms and amortized analysis
-* Applied machine learning and statistical modeling
+- Advanced data structures and randomized algorithms in C++  
+- Applied machine learning and AI model evaluation  
+- Statistical inference and experimental design for real-world data  
+- Scalable data analysis workflows
+
 
 ---
 
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/grace-c-williams/](https://www.linkedin.com/in/grace-c-williams/)
-* **Email:** [gracecwilliams2004@gmail.com](mailto:gracecwilliams2004@gmail.com)
-
+* 
 ---
 
 ⭐ Feel free to explore my repositories or reach out if you are interested in collaborating!
