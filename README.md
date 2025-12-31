@@ -17,9 +17,9 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 
 **Programming & Scripting:** Python (Pandas, NumPy, scikit-learn), R (tidyverse), C++, Java, JavaScript, SQL, HTML/CSS, Racket, Prolog  
 
-**Data & Analysis Tools:** Jupyter Notebooks, Google Colab, Excel, Git, GitHub  
+**AI / Machine Learning:** Supervised learning, predictive modeling, feature engineering, model evaluation, applied machine learning with scikit-learn  
 
-**Machine Learning & Analytics:** scikit-learn, statistical modeling, exploratory data analysis, data cleaning, data visualization  
+**Data & Analysis Tools:** Jupyter Notebooks, Google Colab, Excel, Git, GitHub  
 
 **Computer Science Foundations:** Algorithms & data structures, object-oriented programming
 
