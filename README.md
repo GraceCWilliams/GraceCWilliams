@@ -79,6 +79,7 @@ Each repository includes its own README with project-specific details.
 ## 📫 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/grace-c-williams/](https://www.linkedin.com/in/grace-c-williams/)
+* * **Portfolio:** [https://gracecwilliams.github.io/](https://gracecwilliams.github.io/)
   
 ---
 
