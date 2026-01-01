@@ -1,4 +1,4 @@
-# Grace Williams
+# [Grace Williams](https://gracecwilliams.github.io/)
 
 Computer Science & Mathematics student at Harvey Mudd College with a Data Science minor. I am interested in building technology that has real-world impact, particularly at the intersection of data, software engineering, and human-centered applications.
 
