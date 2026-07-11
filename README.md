@@ -7,8 +7,8 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 ## 👋 About Me
 
 * 🎓 **B.S. in Computer Science & Mathematics**, Minor in Data Science (Expected May 2027)
-* 💡 Interested in **data science, software engineering, machine learning, and applied research**
-* 🧠 Especially drawn to projects with applications in **health, finance, and social impact**
+* 💡 Interested in **spacecraft mission design, data science, software engineering, machine learning, and applied research**
+* 🧠 Especially drawn to projects with applications in **aerospace, health, finance, and social impact**
 * 🤝 Passionate about community-building and expanding access to STEM
 
 ---
@@ -27,6 +27,11 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 ---
 
 ## 📌 Experience Highlights
+
+### **Spaceflight Mission Analysis Intern – Amentum**
+
+* Supporting NASA's Marshall Space Flight Center Guidance, Navigation & Mission Branch (EV42) under ESSCA contract.
+* Working on projects within mission analysis, mission design, and trajectory optimization for the Space Launch System (SLS) and Artemis missions.
 
 ### **Operations Intern – Fidelity Investments**
 
@@ -68,6 +73,7 @@ Each repository includes its own README with project-specific details.
 
 ## 🌱 Currently Learning
 
+- In-space trajectory design
 - Advanced data structures and randomized algorithms in C++  
 - Applied machine learning and AI model evaluation  
 - Statistical inference and experimental design for real-world data  
