@@ -15,13 +15,13 @@ Computer Science & Mathematics student at Harvey Mudd College with a Data Scienc
 
 ## 🛠 Technical Highlights
 
-**Programming:** Python (Pandas, NumPy, scikit-learn), R (tidyverse), C++, Java, JavaScript, SQL, HTML/CSS, Racket, Prolog  
+**Programming:** Python (PyTorch, asset-asrl, Pandas, NumPy, scikit-learn), R (tidyverse), C++, Java, JavaScript, SQL, HTML/CSS, Racket, Prolog  
 
-**AI & Machine Learning:** Supervised learning, predictive modeling, feature engineering, model evaluation, applied machine learning 
+**AI & Machine Learning:** Neural Networks, Supervised Learning, Predictive Modeling, Feature Engineering, Model Evaluation, Applied Machine Learning 
 
 **Data & Analysis Tools:** Jupyter Notebooks, Google Colab, Excel, Git, GitHub  
 
-**Computer Science:** Algorithms & data structures, object-oriented programming
+**Computer Science:** Algorithms & Data Structures, Object-Oriented Programming
 
 
 ---
